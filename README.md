@@ -1,4 +1,3 @@
-               ---*****---
 Presenting
 # the details :
 # Softwerkskammer-Logos
@@ -13,6 +12,8 @@ Dieses Werk bzw. Inhalt steht unter einer [Creative Commons Namensnennung 3.0 Un
 
 https://fsf.org  # website # Atribution standard internasional creative common atribution
 
-## open source CCO by-SA 
+https://creativecommon.org/CCO/by-SA
+
+## open source CCO by-SA 3.0
 
 #Thanks follow steps
